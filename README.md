@@ -20,9 +20,6 @@ The project uses the following technologies:
 - **MySQL** - Database for storing patient, doctor, and hospital data.
 - **HTML/CSS/JS** - For the front-end of the application.
 
-### Database Structure
-For the database structure, you can refer to the **Hospital-SQL** repository, which provides the SQL scripts to set up the required tables and relationships for this project. You can find the SQL scripts and instructions for setting up the database [here](https://github.com/xreedev/Hospital-SQL).
-
 ### How to Run the Project
 1. Clone the repository:  
    `git clone https://github.com/xreedev/Hospital-Management.git`
